@@ -1,0 +1,3 @@
+Non-pruned tree train error =  0.0
+Non-pruned tree test error =  0.190082644628
+Pruned tree test error =  0.103896103896
