@@ -5,7 +5,7 @@ Implementation of Decision Tree (ID3) with Pruning and Plotting option in Python
 
 The error plot for Mushroom dataset:
 
-<img src="/images/errPlot.png" width="700" height="510">
+<img src="/images/errPlot.png" width="350" height="260">
 
 The achieved decision tree graph:
 
